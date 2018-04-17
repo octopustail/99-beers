@@ -9,7 +9,7 @@ For those who do not know the song, the lyrics follow this form:
     X bottles of beer on the wall, X bottles of beer.
     Take one down, pass it around, X-1 bottles of beer on the wall.
 
-    X-1 bottles of beer on the wall, X bottles of beer.
+    X-1 bottles of beer on the wall, X-1 bottles of beer.
     ...
 
 last two paragraph is different. It should be:
